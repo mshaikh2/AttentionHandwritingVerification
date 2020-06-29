@@ -1,0 +1,2 @@
+# AttentionHandwritingVerification
+ICFHR2020
