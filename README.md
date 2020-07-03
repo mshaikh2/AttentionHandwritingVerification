@@ -15,5 +15,5 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 # Citation
 
 # Datasets
--
--
+- Handwritten "AND": https://github.com/mshaikh2/HDL_Forensics
+- Signature: http://www.cedar.buffalo.edu/NIJ/data
