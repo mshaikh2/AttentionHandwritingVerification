@@ -12,7 +12,7 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 [b] Images from different writer
 
 
-# Please cite our paper
+# Citation
 
 # Datasets
 -
