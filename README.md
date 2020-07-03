@@ -1,4 +1,4 @@
-# AttentionHandwritingVerification
+# Attention based Handwriting Verification
 Conference paper presented in ICFHR2020, Dortmund, Germany
 
 # Correspondence region maps from Cross Attention
