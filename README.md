@@ -2,11 +2,13 @@
 Conference paper presented in ICFHR2020, Dortmund, Germany
 
 ### Correspondence region maps from Cross Attention
-![corrrespondence maps](https://github.com/mshaikh2/AttentionHandwritingVerification/blob/master/image.jpg?raw=true)
-
+<img alt="corrrespondence maps" src="/figures/keypoints.png" width="50%"/>
+[a] Images from same writer
+[b] Images from different writer
 ### Salient region maps from Soft Attention
-![salient maps](https://github.com/mshaikh2/AttentionHandwritingVerification/blob/master/image.jpg?raw=true)
-
+<img alt="saliency maps" src="/figures/saliency.png" width="50%"/>
+[a] Images from same writer
+[b] Images from different writer
 ### Please cite our paper
 
 ### Dataset used is referenced from
