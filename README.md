@@ -10,8 +10,10 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 <img alt="saliency maps" src="/figures/saliency.png" width="50%"/>
 [a] Images from same writer
 [b] Images from different writer
-### Please cite our paper
 
-### Dataset used is referenced from
+
+# Please cite our paper
+
+# Datasets
 -
 -
