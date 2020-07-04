@@ -7,14 +7,17 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 # More Results
 ## Correspondence region maps from Cross Attention
 <img alt="corrrespondence maps" src="/figures/keypoints.png" width="50%"/>
-[a] Images from same writer
-[b] Images from different writer
+<ol type="a">
+<li>Images from same writer where the model is able to locate some points corresponding to query</li>
+<li>Images from different writers where the model is unable to locate any point similar to queried pixel region</li>
+</ol>
 
 ## Salient region maps from Soft Attention
 <img alt="saliency maps" src="/figures/saliency.png" width="50%"/>
-[a] Images from same writer
-[b] Images from different writer
-
+<ol type="a">
+<li>Salient regions when the model assumes that the writers are same. Model highlights the similar looking regions.</li>
+<li>Salient regions when the model assumes that the writers are different. Model highlights the dissimilar looking regions.</li>
+</ol>
 
 # Citation
 
