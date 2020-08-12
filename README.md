@@ -20,6 +20,7 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 </ol>
 
 # Citation
+- Coming soon
 
 # Datasets
 - Handwritten "AND": https://github.com/mshaikh2/HDL_Forensics
