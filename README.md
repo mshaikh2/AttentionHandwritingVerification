@@ -21,7 +21,14 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 </ol>
 
 # Citation
-- Coming soon
+```
+@article{shaikh2020attention,
+  title={Attention based Writer Independent Handwriting Verification},
+  author={Shaikh, Mohammad Abuzar and Duan, Tiehang and Chauhan, Mihir and Srihari, Sargur},
+  journal={arXiv preprint arXiv:2009.04532},
+  year={2020}
+}
+```
 
 # Datasets
 - Handwritten "AND": https://github.com/mshaikh2/HDL_Forensics
