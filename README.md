@@ -22,11 +22,14 @@ Conference paper presented in ICFHR2020, Dortmund, Germany
 
 # Citation
 ```
-@article{shaikh2020attention,
-  title={Attention based Writer Independent Handwriting Verification},
-  author={Shaikh, Mohammad Abuzar and Duan, Tiehang and Chauhan, Mihir and Srihari, Sargur},
-  journal={arXiv preprint arXiv:2009.04532},
-  year={2020}
+@INPROCEEDINGS{
+  9257763
+  ,  author={M. A. {Shaikh} and T. {Duan} and M. {Chauhan} and S. N. {Srihari}}
+  ,  booktitle={2020 17th International Conference on Frontiers in Handwriting Recognition (ICFHR)}
+  ,  title={Attention based Writer Independent Verification}
+  ,  year={2020}
+  ,  pages={373-379}
+  ,  doi={10.1109/ICFHR2020.2020.00074}
 }
 ```
 
