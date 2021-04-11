@@ -1,0 +1,9 @@
+The dataset files can be downloaded from our google drive below:
+https://drive.google.com/file/d/1J_4ms6yWAdnDBfenuVnGSYtTCFGuKg4n/view?usp=sharing
+
+
+Please cite the datasets
+- Handwritten "AND": https://github.com/mshaikh2/HDL_Forensics
+- CEDAR Signature: http://www.cedar.buffalo.edu/NIJ/data
+
+
